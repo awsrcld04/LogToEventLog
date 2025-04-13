@@ -29,7 +29,7 @@ namespace LogToEventLog
 
         static void funcPrintProgramSyntax()
         {
-            Console.WriteLine("LogToEventLog v1.0 (c) 2012 SystemsAdminPro.com");
+            Console.WriteLine("LogToEventLog v1.0");
             Console.WriteLine();
             Console.WriteLine("Parameter syntax: [requires two parameters]");
             Console.WriteLine();
